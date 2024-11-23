@@ -1,4 +1,4 @@
-Trabalho do Projeto Python de Gerenciamento de restaurante apresentado por:
+Trabalho do Projeto Python RAD de Gerenciamento de restaurante apresentado por:
 
 Natanael Henrique Encarnação das Mandias - 2023036221
 https://github.com/Natanaelhenriqu/projeto_python/tree/main
